@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: beige;
+}
+
+main{
+  width: 500px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  padding-left: 50px;
+}
+
+img{
+  width: 70px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  border-radius: 6px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+h2{
+  margin-top: 15px;
+}
