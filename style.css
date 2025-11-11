@@ -28,10 +28,10 @@ header img{
   cursor: auto;
 }
 
-header a{
+header a,p{
   text-decoration: none;
   text-align: center;
-  color: rgb(16, 17, 19)
+  color: rgb(16, 17, 19);
 }
 
 h1{
@@ -102,7 +102,7 @@ footer{
   height: 180px;
   margin: 0 auto;
   background-color: aliceblue;
-
+  position: relative;
 }
  footer p,a{
   padding-top: 20px;
@@ -114,7 +114,9 @@ footer{
  footer h3{
     font-size: 13px;
     color: rgb(90, 93, 95);
-    padding-top: 110px;
+    display: flex;
+    margin-top: 60px;
+    margin-left: 37%;
  }
 
 
